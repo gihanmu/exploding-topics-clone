@@ -48,7 +48,6 @@ const categoryData: Category[] = [
   { label: "Invitation design", icon: FileText, color: "bg-yellow-100 text-yellow-600 border-yellow-200" },
 ];
 
-const sortOptions = ["Category", "A-Z", "Z-A"];
 
 export default function FiverrPage() {
   const [search, setSearch] = useState("");

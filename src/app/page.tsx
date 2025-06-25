@@ -6,7 +6,7 @@ import { Input } from "@/components/ui/input";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Separator } from "@/components/ui/separator";
-import { Search, TrendingUp, Users, Target, BarChart3, Zap, ArrowRight, CheckCircle } from "lucide-react";
+import { Search, TrendingUp, Users, Target, BarChart3, Zap, ArrowRight } from "lucide-react";
 import { FreeToolsSection } from "@/components/FreeToolsSection";
 import { TrendingTopicsSection } from "@/components/TrendingTopicsSection";
 import { TopicInsightsSection } from "@/components/TopicInsightsSection";
